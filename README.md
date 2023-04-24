@@ -16,7 +16,7 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge]<img width="148" alt="heart-on-your-sleeve-default" src="https://user-images.githubusercontent.com/62495617/234139622-9edbf5a2-0edf-449c-bb27-798c5699538f.png"> | ? | ?
+Heart On Your Sleeve | <img width="148" alt="heart-on-your-sleeve-default" src="https://user-images.githubusercontent.com/62495617/234139622-9edbf5a2-0edf-449c-bb27-798c5699538f.png"> | ? | ?
 Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ? | ?
 ||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
