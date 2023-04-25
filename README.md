@@ -77,7 +77,7 @@ Each tier has a label associated which includes a color.
 | --- | --- | --- | --- | --- |
 Bronze 🥉 | x2 | ![tier-label-bronze](https://user-images.githubusercontent.com/62495617/234154133-867f02e7-4f99-4ab9-92be-495df1f6ebd6.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
 Silver 🥈 | x3 | ![tier-label-silver](https://user-images.githubusercontent.com/62495617/234154638-9b7cb602-1e9e-4050-84fe-feace1ecaf58.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+Gold 🥇 | x4 | ![tier-label-gold](https://user-images.githubusercontent.com/62495617/234155181-4958b485-64df-49bd-ad3e-88e74daf5698.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 
 ### Variants
