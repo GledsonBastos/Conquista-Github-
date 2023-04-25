@@ -24,7 +24,7 @@ Quickdraw | <img width="148" alt="quickdraw-default" src="https://user-images.gi
 Starstruck | <img width="148" alt="starstruck-default" src="https://user-images.githubusercontent.com/62495617/234142141-484f8504-8e25-4552-9eda-c4e544062a0a.png"> | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/62495617/234143082-e31f45ea-3661-40d0-80dc-83046571e1f2.png"> | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
+Pull Shark | <img width="148" alt="pull-shark-default" src="https://user-images.githubusercontent.com/62495617/234143349-48446472-8c4c-4e19-8f2f-28a560499f85.png"> | ✔️ | 2 pull requests merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
