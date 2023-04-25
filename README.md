@@ -41,7 +41,7 @@ Pair Extraordinaire x2 | Bronze 🥉 | <img width="148" alt="pair-extraordinaire
 Pair Extraordinaire x3 | Silver 🥈 | <img width="148" alt="pair-extraordinaire-silver" src="https://user-images.githubusercontent.com/62495617/234147802-ba9072e7-2a3b-407c-a8ee-e6f47c7e2f10.png"> | Coauthored in 24 merged pull requests
 Pair Extraordinaire x4 | Gold 🥇 | <img width="148" alt="pair-extraordinaire-gold" src="https://user-images.githubusercontent.com/62495617/234148067-67410f99-3634-4502-95c8-7aff901d64f2.png"> | Coauthored in 48 merged pull requests
 Starstruck x2 | Bronze 🥉 |<img width="148" alt="starstruck-bronze" src="https://user-images.githubusercontent.com/62495617/234148843-60739859-2531-4b20-b126-f9cd2fceae1b.png"> | Created a repository that has 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
+Starstruck x3 | Silver 🥈 |<img width="148" alt="starstruck-silver" src="https://user-images.githubusercontent.com/62495617/234149735-d5f02e50-6be2-49aa-9ea8-198700e84fe4.png"> | Created a repository that has 512 stars
 Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
