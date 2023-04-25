@@ -38,7 +38,7 @@ Some Achievements not only have the base version, but also tiers.
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
 Pair Extraordinaire x2 | Bronze 🥉 | <img width="148" alt="pair-extraordinaire-bronze" src="https://user-images.githubusercontent.com/62495617/234147421-d23ee554-aad6-448f-a058-e76495f5c62c.png"> | Coauthored in 10 merged pull requests
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
+Pair Extraordinaire x3 | Silver 🥈 | <img width="148" alt="pair-extraordinaire-silver" src="https://user-images.githubusercontent.com/62495617/234147802-ba9072e7-2a3b-407c-a8ee-e6f47c7e2f10.png"> | Coauthored in 24 merged pull requests
 Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
 Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
 Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
