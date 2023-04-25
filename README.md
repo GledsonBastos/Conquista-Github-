@@ -23,7 +23,7 @@ Pair Extraordinaire | <img width="148" alt="pair-extraordinaire-default" src="ht
 Quickdraw | <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/62495617/234141160-7a80f3d6-4888-440c-b9f4-3f388ca0cf77.png"> | ✔️ | Closed an issue or a pull request within 5 min of opening
 Starstruck | <img width="148" alt="starstruck-default" src="https://user-images.githubusercontent.com/62495617/234142141-484f8504-8e25-4552-9eda-c4e544062a0a.png"> | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Galaxy Brain | <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/62495617/234143082-e31f45ea-3661-40d0-80dc-83046571e1f2.png"> | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate -->
