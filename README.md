@@ -104,6 +104,6 @@ Here are the old designs and names:
 
 | Title | Badge |
 | --- | --- |
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
+Arctic Code Vault Contributor | <img width="148" alt="arctic-code-vault-contributor-default" src="https://user-images.githubusercontent.com/62495617/234155683-f06ad02b-824b-4d5d-89ad-9271f8b54f62.png">
 GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
 Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
