@@ -106,4 +106,4 @@ Here are the old designs and names:
 | --- | --- |
 Arctic Code Vault Contributor | <img width="148" alt="arctic-code-vault-contributor-default" src="https://user-images.githubusercontent.com/62495617/234155683-f06ad02b-824b-4d5d-89ad-9271f8b54f62.png">
 GitHub Sponsor | <img width="148" alt="public-sponsor-default" src="https://user-images.githubusercontent.com/62495617/234156101-37c35c50-6f1c-4f17-8de4-c352c1f70a37.png">
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
+Mars 2020 Helicopter Contributor | <img width="148" alt="mars-2020-contributor-default" src="https://user-images.githubusercontent.com/62495617/234156422-2461cf52-1af4-4b31-ac6c-41b256916737.png">
