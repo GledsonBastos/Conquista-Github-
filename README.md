@@ -25,7 +25,7 @@ Starstruck | <img width="148" alt="starstruck-default" src="https://user-images.
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/62495617/234143082-e31f45ea-3661-40d0-80dc-83046571e1f2.png"> | ✔️ | 2 accepted answers
 Pull Shark | <img width="148" alt="pull-shark-default" src="https://user-images.githubusercontent.com/62495617/234143349-48446472-8c4c-4e19-8f2f-28a560499f85.png"> | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
+YOLO | <img width="148" alt="yolo-default" src="https://user-images.githubusercontent.com/62495617/234143553-bce31f68-9dd6-4ca5-a3d0-ea0f5fe03649.png">| ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
