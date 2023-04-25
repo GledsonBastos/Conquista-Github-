@@ -29,8 +29,7 @@ YOLO | <img width="148" alt="yolo-default" src="https://user-images.githubuserco
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | <img width="148" alt="arctic-code-vault-contributor-default" src="https://user-images.githubusercontent.com/62495617/234143791-e1193405-e9b8-4951-9a46-f80c6f3e6bf3.png"> | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | <img width="148" alt="public-sponsor-default" src="https://user-images.githubusercontent.com/62495617/234144249-e92baa7d-c4b4-4d4d-9d9c-f8fcc633ea26.png"> | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | 
-<img width="148" alt="mars-2020-contributor-default" src="https://user-images.githubusercontent.com/62495617/234145431-30408765-6042-4297-b918-4551c0fee37f.png"> | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Mars 2020 Contributor | <img width="148" alt="mars-2020-contributor-default" src="https://user-images.githubusercontent.com/62495617/234145431-30408765-6042-4297-b918-4551c0fee37f.png"> | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 
 ## Tiers
 
