@@ -45,7 +45,7 @@ Starstruck x3 | Silver 🥈 |<img width="148" alt="starstruck-silver" src="https
 Starstruck x4 | Gold 🥇 | <img width="148" alt="starstruck-gold" src="https://user-images.githubusercontent.com/62495617/234150366-dcec218b-b8db-4847-bd58-60e90d3c191a.png"> | Created a repository that has 4096 stars
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain x2 | Bronze 🥉 | <img width="148" alt="galaxy-brain-bronze" src="https://user-images.githubusercontent.com/62495617/234151665-e1462705-49b1-4122-b817-6c5a799d8710.png"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
+Galaxy Brain x3 | Silver 🥈 | <img width="148" alt="galaxy-brain-silver" src="https://user-images.githubusercontent.com/62495617/234152050-467d7add-15fe-48e9-ad25-de9dcd72c27f.png"> | 16 accepted answers
 Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
 Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
