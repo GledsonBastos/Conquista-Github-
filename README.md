@@ -28,7 +28,7 @@ Pull Shark | <img width="148" alt="pull-shark-default" src="https://user-images.
 YOLO | <img width="148" alt="yolo-default" src="https://user-images.githubusercontent.com/62495617/234143553-bce31f68-9dd6-4ca5-a3d0-ea0f5fe03649.png">| ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | <img width="148" alt="arctic-code-vault-contributor-default" src="https://user-images.githubusercontent.com/62495617/234143791-e1193405-e9b8-4951-9a46-f80c6f3e6bf3.png"> | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Public Sponsor | <img width="148" alt="public-sponsor-default" src="https://user-images.githubusercontent.com/62495617/234144249-e92baa7d-c4b4-4d4d-9d9c-f8fcc633ea26.png"> | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 
 ## Tiers
