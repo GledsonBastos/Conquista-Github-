@@ -21,7 +21,7 @@ Open Sourcerer | <img width="148" alt="open-sourcerer-default" src="https://user
 ||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | <img width="148" alt="pair-extraordinaire-default" src="https://user-images.githubusercontent.com/62495617/234140796-9dab10ea-df90-4839-9824-844d92cb548e.png"> | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/62495617/234141160-7a80f3d6-4888-440c-b9f4-3f388ca0cf77.png"> | ✔️ | Closed an issue or a pull request within 5 min of opening
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
+Starstruck | <img width="148" alt="starstruck-default" src="https://user-images.githubusercontent.com/62495617/234142141-484f8504-8e25-4552-9eda-c4e544062a0a.png"> | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
